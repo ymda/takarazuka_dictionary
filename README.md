@@ -1,0 +1,2 @@
+# takarazuka_dictionary
+Google日本語入力用のタカラジェンヌ芸名辞書
